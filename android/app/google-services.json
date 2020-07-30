@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677527815954",
+    "firebase_url": "https://flash-chat-cdb68.firebaseio.com",
+    "project_id": "flash-chat-cdb68",
+    "storage_bucket": "flash-chat-cdb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677527815954:android:d4024656a5d09ec1f2d5cb",
+        "android_client_info": {
+          "package_name": "co.antbry.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677527815954-uv3gm2hb2riag6ldji3tto03ec1kti5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99bUZQ0ZuDYA1jlVz_90Ftj_EB4OXctI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677527815954-uv3gm2hb2riag6ldji3tto03ec1kti5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
